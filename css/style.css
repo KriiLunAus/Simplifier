@@ -1,4 +1,5 @@
 body {
+  box-sizing: border-box;
   background-color: black;
   font-style: Arial;
   text-decoration: solid;
@@ -9,6 +10,9 @@ button {
   background-color: rgb(112, 147, 16);
   color: rgb(255, 255, 255);
   padding: 150px;
-  margin: 20px;
   font-size: 50px;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  margin: 20px;
 }
